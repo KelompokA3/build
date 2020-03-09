@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6c2332f.chunk.css",
-    "main.js": "/static/js/main.cddb8422.chunk.js",
-    "main.js.map": "/static/js/main.cddb8422.chunk.js.map",
+    "main.css": "/static/css/main.dd797ae3.chunk.css",
+    "main.js": "/static/js/main.b4f6bff1.chunk.js",
+    "main.js.map": "/static/js/main.b4f6bff1.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.6547dd70.chunk.css": "/static/css/2.6547dd70.chunk.css",
-    "static/js/2.cd3b214c.chunk.js": "/static/js/2.cd3b214c.chunk.js",
-    "static/js/2.cd3b214c.chunk.js.map": "/static/js/2.cd3b214c.chunk.js.map",
+    "static/css/2.7e3c9cc6.chunk.css": "/static/css/2.7e3c9cc6.chunk.css",
+    "static/js/2.698f6b7a.chunk.js": "/static/js/2.698f6b7a.chunk.js",
+    "static/js/2.698f6b7a.chunk.js.map": "/static/js/2.698f6b7a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ea5d9221854824238f6bd1db175f154d.js": "/precache-manifest.ea5d9221854824238f6bd1db175f154d.js",
+    "precache-manifest.0c3d13f7b279d9c4eec24544fb0b527b.js": "/precache-manifest.0c3d13f7b279d9c4eec24544fb0b527b.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.6547dd70.chunk.css.map": "/static/css/2.6547dd70.chunk.css.map",
-    "static/css/main.d6c2332f.chunk.css.map": "/static/css/main.d6c2332f.chunk.css.map"
+    "static/css/2.7e3c9cc6.chunk.css.map": "/static/css/2.7e3c9cc6.chunk.css.map",
+    "static/css/main.dd797ae3.chunk.css.map": "/static/css/main.dd797ae3.chunk.css.map",
+    "static/media/aji.jpg": "/static/media/aji.1cc6b77d.jpg",
+    "static/media/febri.jpg": "/static/media/febri.53cd7b28.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/ilham.jpg": "/static/media/ilham.b42942f2.jpg",
+    "static/media/iman.jpg": "/static/media/iman.6826a399.jpg",
+    "static/media/jimi.jpg": "/static/media/jimi.500b7094.jpg",
+    "static/media/rayhan.png": "/static/media/rayhan.96cdd7f7.png"
   }
 }
